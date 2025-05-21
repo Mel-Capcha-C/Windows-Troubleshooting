@@ -1,0 +1,1 @@
+When I first created my local account in Windows 11, I was missing the Wifi drivers, so I utilized Ethernet connection to update my Windows. Furthermore, I started the services WLAN AutoConfig and WWAN AutoConfig. You can quickly access the services tab with Windows + R and enter services.msc.
